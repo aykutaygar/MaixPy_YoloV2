@@ -20,7 +20,7 @@
         "valid_image_folder":   "datasets/sayilar/images_valid",
         "valid_annot_folder":   "datasets/sayilar/xml_valid",
         "valid_times":          2,
-        "batch_size":           4,
+        "batch_size":           1,
         "learning_rate":        1e-4,
         "saved_folder":   		"sayilar",
         "first_trainable_layer": "",
